@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "Advent of Code solutions for 2023",
+  "type": "module",
+  "author": "Luke Thompson",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20"
+  }
+}
